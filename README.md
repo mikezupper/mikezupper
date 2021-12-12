@@ -18,7 +18,7 @@
   Anything! Just hit me up on Twitter [@mikezupper](https://twitter.com/mikezupper)
   
   - Check my corporate work experience on [LinkedIn](https://www.linkedin.com/in/mike-zupper-7131b08/)
-  - I ran an Amazon FBA Business for 5+ years and genrated over $500K of revenue.
+  - I ran an Amazon FBA Business for 5+ years and generated over $500K of revenue.
   - Avid Technology follower - alway game to chat crypto, edge computing, thee framework-less and build-less web, and on and on! till the break-a-break of dawn! 
  
 ## ⚡ Fun fact: ...
