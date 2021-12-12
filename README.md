@@ -1,16 +1,25 @@
-### Hi there 👋
+## What's Good! It's your boy [Mike Zupper](https://mikezupper.com) ✌🏾
 
-<!--
-**mikezupper/mikezupper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 I’m currently working on ... 
+  
+  Anything that makes web development faster, easier, safer, and more fun. 
+  
+  I've been tinkering with the Rust Language. State Machines. CRDTs, Event-Based Systems, and more.
+  
+  - Front Ends with Web Assembly (Yew, Seed), ReactJs, CycleJS, Streaming APIs, Web Components, .. .. .. 
+  - Backend Servers written in Rust (Tokio, Tower, Axum, Actix)
+  - Deployment Target - Cloudflare Pages / Workers, Firebase, Google Cloud, AWS, Kubernetes, Docker
+  - The Actor Model. Riker, Actix, and all the theory. 
+  - Functional Programming - Scala, Rust, JavaScript - and as many I my brain will allow!
+ 
 
-Here are some ideas to get you started:
+### 💬 Ask me about ... 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Anything! Just hit me up on Twitter [@mikezupper](https://twitter.com/mikezupper)
+  
+  - Check my corporate work experience on [LinkedIn](https://www.linkedin.com/in/mike-zupper-7131b08/)
+  - I ran an Amazon FBA Business for 5+ years and genrated over $500K of revenue.
+  - Avid Technology follower - alway game to chat crypto, edge computing, thee framework-less and build-less web, and on and on! till the break-a-break of dawn! 
+ 
+## ⚡ Fun fact: ...
+  - US Patent Holder. Software inventor ⚡ ✨
