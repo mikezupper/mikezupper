@@ -1,51 +1,44 @@
+
 ## What's Good! It's your boy [Mike Zupper](https://mikezupper.com) ✌🏾
 
-### 🔭 I'm currently working on ... 
-  
-  Anything that makes web development faster, easier, safer, and more fun. 
-  
-  I've been tinkering with the Rust Language. State Machines. CRDTs, Event-Based Systems, and more.
-  
-  - Decentralized AI infra on **Livepeer** — BYOC gateways & runners exposing OpenAI-compatible APIs (chat, image, video, embeddings, rerank) over a decentralized GPU network
-  - DAO tooling — treasury proposals, network analytics, and orchestrator leaderboard/PnL tools for the Livepeer network
-  - Claude Code **Agent Skills** — railway-oriented Rust & TypeScript (Effect), Lit web apps, modern CSS, semantic HTML, SEO — each shipped with a battle-tested proof repo
-  - Front Ends with Web Components (Lit), ReactJs, Streaming APIs .. .. .. 
-  - Backend Servers written in Rust (Tokio, Tower, Axum, Actix) and Go
-  - Deployment Target - Cloudflare Pages / Workers, Google Cloud, AWS, Kubernetes, Docker
-  - Functional Programming - Scala, Rust, TypeScript, JavaScript - and as many as my brain will allow!
+Anything that makes web development faster, easier, safer, and more fun.
 
-  🌱 Roots in: Web Assembly (Yew, Seed), CycleJS, and the Actor Model (Riker, Actix) — where a lot of this thinking started, even if it's not where I'm shipping day to day right now.
- 
+### 🔭 I'm currently working on ...
 
-### 💬 Ask me about ... 
+- **[Gyral](https://github.com/gyraljs/gyral)** — bringing the Model-View-Intent ideas I loved in Cycle.js to modern web components. Pure state updates, semantic HTML, modern CSS, and server rendering. There's a [shop demo](https://github.com/gyraljs/gyral-shop), [Rust integration](https://github.com/gyraljs/gyral-rs), and [benchmarks](https://github.com/gyraljs/benchmarks) you can inspect.
 
-  Anything! Just hit me up on X [@mikezupper](https://x.com/mikezupper)
-  
-  - Check my corporate work experience on [LinkedIn](https://www.linkedin.com/in/mike-zupper-7131b08/)
-  - I ran an Amazon FBA Business for 5+ years and generated over $500K of revenue.
-  - Avid Technology follower - alway game to chat crypto, edge computing, thee framework-less and build-less web, and on and on! till the break-a-break of dawn! 
-  - Check out [html-tags.com](https://html-tags.com) — the living semantic HTML reference I built and maintain
-  - How I run 8+ AI agents to handle my daily life and work, and how I got them to actually coordinate instead of stepping on each other
-  - Deep dives on all of this over on [my blog](https://mikezupper.com/blog) — freshly redesigned in 2026
- 
-## ⚡ Fun fact: ...
-  - US Patent Holder. Software inventor ⚡ ✨
+- **Livepeer infrastructure** — building the pieces that connect AI and video workloads to the network: [capability brokers and pool tooling](https://github.com/Cloud-SPE/livepeer-network-modules), [payment clearing](https://github.com/Cloud-SPE/livepeer-open-clearinghouse), and a [protocol explorer](https://github.com/Cloud-SPE/livepeer-protocol-explorer).
 
-## 🛠 Recent builds
+- **[Blue Claw Network](https://blueclaw.network)** — OpenAI-compatible compute for agent workloads, powered by the Livepeer GPU network.
 
-  - [html-tags-com](https://github.com/mikezupper/html-tags-com) → live at [html-tags.com](https://html-tags.com) — every HTML element, when to use it, live examples, Baseline status
-  - [effect-fp-skill](https://github.com/mikezupper/effect-fp-skill) & [rust-fp-skill](https://github.com/mikezupper/rust-fp-skill) — railway-oriented, illegal-states-unrepresentable functional programming as a Claude Code skill, each proven out in a battle-tested example repo
-  - [lit-web-apps-skill](https://github.com/mikezupper/lit-web-apps-skill) — framework-free web apps with Lit: SSR/SSG/CSR, signals, platform-native routing
-  - [Stop Throwing Exceptions: Railway-Oriented TypeScript with Effect](https://mikezupper.com/posts/stop-throwing-exceptions-railway-oriented-typescript/)
-  - [The Platform Is the Framework](https://mikezupper.com/posts/platform-is-the-framework-web-components-lit/) — 3-part series on building real apps with Lit and zero metaframeworks
+- **[software-factory-rs](https://github.com/The-Zoop-Troop/software-factory-rs)** — a Rust project for getting coding agents through a whole project: plans, shared work tracking, verification, and merging the changes. Claude Code, Codex, OpenCode, and plenty of tinkering.
 
-## 🤝 Let's talk
+- **Functional programming and agent skills** — [two-track](https://github.com/mikezupper/two-track), [Effect](https://github.com/mikezupper/effect-fp-skill), [Rust](https://github.com/mikezupper/rust-fp-skill), and [Beads](https://github.com/mikezupper/beads-skill). Typed errors. Designing with types. Giving agents working examples and checks they can run.
 
-  24+ years in software, the last few spent going deep on decentralized AI infrastructure (Livepeer) and building the AI-assisted dev tooling I use every day.
+### 🛠 A few more builds ...
 
-  I'm open to hearing from:
-  - Founders and entrepreneurs who want a highly experienced technical partner or advisor
-  - Teams tackling decentralized infra, AI agent orchestration, or functional TypeScript/Rust who want an outside opinion
-  - Anyone who just wants to talk shop
+- [pipewise](https://github.com/mikezupper/pipewise) — small, dependency-free operators for Web Streams, including streaming API responses.
+- [html-tags.com](https://html-tags.com) — a living reference for semantic HTML, with examples and guidance on when to use each element.
+- [Sabacc](https://github.com/mikezupper/sabacc) and [Containment](https://github.com/mikezupper/containment) — browser games built with Gyral and Three.js. Gotta leave some room for fun.
 
-  Reach out — 💼 [LinkedIn](https://www.linkedin.com/in/mike-zupper-7131b08/) · 🐦 [X](https://x.com/mikezupper) · 🌐 [mikezupper.com](https://mikezupper.com)
+### 🌱 Learning in public ...
+
+I write about what I'm building on [my blog](https://mikezupper.com/blog).
+
+I've also been turning projects into [courses](https://mikezupper.com/courses/): porting a Java app to Rust, building a chess game with WebAssembly, and running SQL in the browser with DuckDB. Code, lessons, and repositories you can follow along with.
+
+### 💬 Ask me about ...
+
+Anything! Rust, functional programming, state machines, CRDTs, AI agents, crypto, the web platform ... and on and on, till the break-a-break of dawn!
+
+24+ years in software, and still plenty to learn. I also ran an Amazon FBA business for 5+ years and generated over $500K in revenue.
+
+### ⚡ Fun fact ...
+
+US Patent Holder. Software inventor ⚡ ✨
+
+### 🤝 Let's talk
+
+Always up for talking shop with builders. If you're a founder looking for a technical partner or advisor, or a team working on decentralized infrastructure, coding agents, or functional TypeScript/Rust, hit me up.
+
+💼 [LinkedIn](https://www.linkedin.com/in/mike-zupper-7131b08/) · 🐦 [X](https://x.com/mikezupper) · 🌐 [mikezupper.com](https://mikezupper.com)
